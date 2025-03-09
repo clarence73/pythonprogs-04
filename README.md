@@ -1,1 +1,4 @@
 # pythonprogs-04
+PYTHON PROGS HOW TO DETERMINE WHETHER A GIVEN IS NUMBER IS ODD OR EVEN
+
+YT: https://youtu.be/afmNWHcZkuQ?si=HOVjdmTo4QqADhkM
